@@ -3,19 +3,20 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name:
+* Your company's name: LATTE
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):311920
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
-* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue): Krispy Kreme Holdco Inc, 6087 EMPLOYEES
+S & D Coffee Inc, 1100 EMPLOYEES AND Royal Cup Inc 848, EMPLOYEES
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):932
 ***
-* List of your company's primary activities divided into engineering activities and operations activities:
+* List of your company's primary activities divided into engineering activities and operations activities:The engineering activities are research, design, prototyping, and product development and operation activities such as setting up tools and machines, counting inventory, carrying out production and assembly work, finishing and quality and labor control
 ***
-* List of your company's support activities:
+* List of your company's support activities: general management, human resource management, and finance
 ***
 
 ## Task 2
