@@ -8,7 +8,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):311920
 * This industry comprises establishments primarily engaged in one or more of the following: (1) roasting coffee; (2) manufacturing coffee and tea concentrates (including instant and freeze-dried); (3) blending tea; (4) manufacturing herbal tea; and (5) manufacturing coffee extracts, flavorings, and syrups.
 * Our company product is not just coffee. It is made for coffee lovers. Latte turns your customer ordinary demand into an extraordinary exxperience. With the lastest 3D technology, we print the images in the foam of the coffee and each order is personal and unique. 
-* 
+ 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue): Krispy Kreme Holdco Inc, 6087 EMPLOYEES
@@ -18,7 +18,7 @@ S & D Coffee Inc, 1100 EMPLOYEES AND Royal Cup Inc 848, EMPLOYEES
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:The engineering activities are research, design, prototyping, and product development and operation activities such as setting up tools and machines, counting inventory, carrying out production and assembly work, finishing and quality and labor control
 ***
-* List of your company's support activities: general management, human resource management, and finance
+* List of your company's support activities: general management, human resource management, finance and marketing department.
 ***
 
 ## Task 2
