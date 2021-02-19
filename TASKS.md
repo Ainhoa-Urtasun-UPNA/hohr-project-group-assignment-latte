@@ -56,25 +56,90 @@ Socre: 8. Management is the top position in the company therefore, well-qualifie
 - The median wages in 2019 was $26.60 hourly, $55,320 annual
 * Top industry: Accomodation and Food Services. 56% employed in this sector. 
 ### Engineers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 17-2071.00 Electrical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+82: Operate computer-assisted engineering or design software or equipment to perform engineering tasks.
+
+80: Prepare technical drawings, specifications of electrical systems, or topographical maps to ensure that installation and operations conform to standards and customer requirements.
+
+77: Confer with engineers, customers, or others to discuss existing or potential engineering projects or products.
+
+72: Design, implement, maintain, or improve electrical instruments, equipment, facilities, components, products, or systems for commercial, industrial, or domestic purposes.
+
+70: Direct or coordinate manufacturing, construction, installation, maintenance, support, documentation, or testing activities to ensure compliance with specifications, codes, or customer requirements.
+
+* Is this job routine? Your judgment (0-10): 6, as many times the job could be repetitive and the problems can seem equals. 
+
+* Is this job cognitive? Your judgment (0-10): 8, because any task in the engineer sphere needs a specific knowledge in the process. 
+
 * 5 most important skills they require to possess (provide the importance score, in Details):
+SCORE 72:Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
+
+SCORE 72: Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.
+
+SCORE 72: Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+
+SCORE 72: Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+
+SCORE 72; Writing — Communicating effectively in writing as appropriate for the needs of the audience.
+
 * 5 technology skills
-* Education:
-* Wages:
+1:Analytical or scientific software — Failure mode and effects analysis FMEA software; Minitab  ; Powersim PSIM; The MathWorks MATLAB  
+2:Computer aided design CAD software  — Autodesk AutoCAD  ; Bentley Microstation  ; Dassault Systemes CATIA; Zuken E3.schematic  
+3: Data base user interface and query software — Data entry software  ; Microsoft SQL Server 
+4:Development environment software — C; Microsoft Visual Basic Scripting Edition VBScript  ; National Instruments LabVIEW  ; Verilog
+5: Industrial control software — Supervisory control and data acquisition SCADA software  ; Wonderware InTouch HMI 
+
+* Education: 
+70%: Bachelor's degree
+23%: Master's degree
+3%: High school diploma or equivalent
+
+* Wages: 
+
+Median wages (2019)
+$47.37 hourly, $98,530 annual
+
 * Top industry:
+Manufacturing (34% employed in this sector)
+Professional, Scientific, and Technical Services (33%)
+Utilities (10%)
+
+
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 51-3093.00 - Food Cooking Machine Operators and Tenders
+
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+89: Tend or operate and control equipment, such as kettles, cookers, vats and tanks, and boilers, to cook ingredients or prepare products for further processing.
+87: Set temperature, pressure, and time controls, and start conveyors, machines, or pumps.
+86: Clean, wash, and sterilize equipment and cooking area, using water hoses, cleaning or sterilizing solutions, or rinses.
+86: Observe gauges, dials, and product characteristics, and adjust controls to maintain appropriate temperature, pressure, and flow of ingredients.
+84: Listen for malfunction alarms, and shut down equipment and notify supervisors when necessary.
+
+* Is this job routine? Your judgment (0-10): 6, because the main task is repetitive.
+
+* Is this job cognitive? Your judgment (0-10):6, as it is important to know how the 3D machine works.
+
 * 5 most important skills they require to possess (provide the importance score, in Details):
+SCORE 69: Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.
+SCORE 60 : Operation and Control — Controlling operations of equipment or systems.
+SCORE 56: Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. 
+SCORE 53: Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+SCORE 53 : Speaking — Talking to others to convey information effectively.
+
 * 5 technology skills:
-* Education:
+Database user interface and query software — Database software 
+
+* Education: (no percentage available)
+High school diploma or equivalent 
+Less than high school diploma
+Some college, no degree
+
 * Wages:
+Median wages (2019): $14.96 hourly, $31,110 annual
+
 * Top industry:
+Manufacturing (83% employed in this sector)
 ***
 
 ## Task 3
