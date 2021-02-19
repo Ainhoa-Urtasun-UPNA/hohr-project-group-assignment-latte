@@ -6,6 +6,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's name: LATTE
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):311920
+* This industry comprises establishments primarily engaged in one or more of the following: (1) roasting coffee; (2) manufacturing coffee and tea concentrates (including instant and freeze-dried); (3) blending tea; (4) manufacturing herbal tea; and (5) manufacturing coffee extracts, flavorings, and syrups.
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
