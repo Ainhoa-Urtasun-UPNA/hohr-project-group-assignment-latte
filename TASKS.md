@@ -8,7 +8,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):311920
 * This industry comprises establishments primarily engaged in one or more of the following: (1) roasting coffee; (2) manufacturing coffee and tea concentrates (including instant and freeze-dried); (3) blending tea; (4) manufacturing herbal tea; and (5) manufacturing coffee extracts, flavorings, and syrups.
 * Our company product is not just coffee. It is made for coffee lovers. Latte turns your customer ordinary demand into an extraordinary exxperience. With the lastest 3D technology, we print the images in the foam of the coffee and each order is personal and unique. 
-* 
+
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue): Krispy Kreme Holdco Inc, 6087 EMPLOYEES
@@ -38,7 +38,7 @@ Score: 4. These occupations requieres working with employees face to face and ma
 Socre: 8. Management is the top position in the company therefore, well-qualified workers are required. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 - 72% Importance. Service Orientation — Actively looking for ways to help people.See more occupations related to this skill.
-- 69% Importance. Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, - 69% Importance. and not interrupting at inappropriate times.See more occupations related to this skill.
+- 69% Importance. Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, - - - 69% Importance. and not interrupting at inappropriate times.See more occupations related to this skill.
 - 69% Importance. Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.See more occupations related to this skill.
 - 69% Importance. Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
 - 69% Importance. Speaking — Talking to others to convey information effectively.
