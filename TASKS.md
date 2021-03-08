@@ -173,6 +173,10 @@ SCORE 53 : Speaking — Talking to others to convey information effectively.
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
 
+In order to calculate the forecasting number of available workers, we have compute different matrixes. The first one (D) is based on historical data from the beginning of the year 2020. The second one (M) is composed on historical data from the end of the year 2020. We have used data from our company in the matrix b. We are 2 managers, 1 engineers and 1 operator at the beginning of2021. 
+
+So finally, once the software has compute its operations, we have get that the prediction for the end of the year 2021 is; 1 manager, 1 engineers and 2 operators. 
+
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
