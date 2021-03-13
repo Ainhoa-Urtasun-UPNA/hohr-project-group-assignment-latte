@@ -185,7 +185,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
 
-In order to calculate the forecasting number of needed workers, we have to follow two steps. To start with, we have compute two matrixes ( X & Y). We use the given data to complet the matrixes and the software give us the result for beta (0.125), s1 (3.083), s2 (11.958) and s3 (4,542). To continue with the prediction, we multiply two matrixes (step 2). The first one is formed with the expected unemployment rate for the different occupations; and the second one is a row vector with the data computed before (beta, s1, s2 and s3).
+In order to calculate the forecasting number of needed workers, we have to follow two steps. To start with, we have compute two matrixes ( X & Y). We use the given data to complet the matrixes and the software give us the result for beta (0.125), s1 (3.083), s2 (11.958) and s3 (4,542). To continue with the prediction, we multiply two matrixes (step 2). The first one is formed with the expected unemployment rate for the different occupations; and the second one is a colum vector with the data computed before (beta, s1, s2 and s3).
 
 After the computations, we obtain the following expected needed of workers: 4 managers (4.33), 12 engineers (12.458) and 7 operators (7.042).
 
