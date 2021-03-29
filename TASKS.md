@@ -205,6 +205,7 @@ List of tasks:
 - Proactively manage and update the overall business plan, including managing trade funds spending, budgets and volume to achieve all sales objectives versus budget
 - Utilize all available consumer/shopper insights and category management practices to proactively link consumer, shopper trends and food trends to opportunities
 - Identify profitable opportunities to grow incremental volume.
+
 List of skills: 
 - Entrepreneurial Mindset
 - Problem Solving Skills
@@ -217,10 +218,15 @@ List of skills:
 - High level of proficiency in all Microsoft Office applications
 - Supply Chain Knowledge
 - P&L Management
+
 Requiered credentials and years of experience: 7-10 years food-service national account and distributor or related consumer products industries
+
 Job type: Full- time
+
 Location: Navarre (Spain)
-Salary, benefits and perks: 100,000-110,000 euros a year
+
+Salary, benefits and perks:
+100,000-110,000 euros a year
 1 month vacancy
 
 ### Job posting for Engineers:
