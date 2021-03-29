@@ -196,8 +196,11 @@ To finish with this we want to compare the forecasting needed of workers and the
 ***
 ### Job posting for Managers:
 Job title: Business Manager 
+
 Occupation: 11-9051
+
 Industry: 311920
+
 List of tasks: 
 - Utilize company's annual account planning.
 - Process to create and execute optimal customer plans to deliver key sales, profit and share metrics.
@@ -231,8 +234,11 @@ Salary, benefits and perks:
 
 ### Job posting for Engineers:
 Job title: Electrical Engineer
+
 Occupation: 17-2071
+
 Industry: 311920
+
 List of tasks:
 - Oversee the project detail design structure before submitting it to clients
 - Work with the Project Managers or Engineers in identifying the project risk and planning mitigation actions
@@ -259,14 +265,23 @@ Salary, benefits and perks:
 
 ### Job posting for Operators:
 Job title:
+
 Occupation: 51-3093
+
 Industry: 311920
+
 List of tasks:
+
 List of skills: 
+
 Requiered credentials and years of experience:
+
 Job type:
+
 Location:
+
 Salary, benefits and perks: 
+
 ***
 
 ## Task 6
