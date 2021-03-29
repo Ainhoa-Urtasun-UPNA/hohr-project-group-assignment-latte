@@ -195,8 +195,72 @@ To finish with this we want to compare the forecasting needed of workers and the
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+Job title: Business Manager 
+Occupation: 11-9051
+Industry: 311920
+List of tasks: 
+- Utilize company's annual account planning.
+- Process to create and execute optimal customer plans to deliver key sales, profit and share metrics.
+- Lead and manage Mann’s portfolio to drive volume, profit and share growth to achieve annual budget. Moreover, the responsibilities’ includes other growth channel customers such as Direct-to-Consumer 
+- Proactively manage and update the overall business plan, including managing trade funds spending, budgets and volume to achieve all sales objectives versus budget
+- Utilize all available consumer/shopper insights and category management practices to proactively link consumer, shopper trends and food trends to opportunities
+- Identify profitable opportunities to grow incremental volume.
+List of skills: 
+- Entrepreneurial Mindset
+- Problem Solving Skills
+- Technical Skills
+- Category & Brand Knowledge
+- Analytical & Insights Skills
+- Interpersonal Skills
+- Negotiation Skills
+- Written and Verbal Communication Skills
+- High level of proficiency in all Microsoft Office applications
+- Supply Chain Knowledge
+- P&L Management
+Requiered credentials and years of experience: 7-10 years food-service national account and distributor or related consumer products industries
+Job type: Full- time
+Location: Navarre (Spain)
+Salary, benefits and perks: 100,000-110,000 euros a year
+1 month vacancy
+
 ### Job posting for Engineers:
+Job title: Electrical Engineer
+Occupation: 17-2071
+Industry: 311920
+List of tasks:
+- Oversee the project detail design structure before submitting it to clients
+- Work with the Project Managers or Engineers in identifying the project risk and planning mitigation actions
+- Implement the best practices, code standards, and use of technology in the execution of designs/delivery
+- Provide weekly or monthly report in the form of accurate and detailed reports
+- Partner with other groups and/or departments to pursue significant opportunities, as well as teaming with the Business Development Group to produce compelling and winning proposals
+- Ensure that the staff is competent and properly utilized, the undue risk is avoided, and the backlog is built to sustain the operation
+- Maintain awareness of industry trends (such as related-technology, green design), educates staff, and modifies practices
+- Utilize Computer-Aided Design software and other equipment to support project designs and plans, when necessary
+- Lead the staff with a focus on developing talent and providing innovative and effective technical solutions and assure the skills necessary for successful execution are available; ensures the overall development of our professional
+- Develop staff to improve skill levels and deliver services and stay abreast of evolving needs in the marketplace
+List of skills: 
+
+
+
+
+Requiered credentials and years of experience: 
+- 3+ years of direct experience 
+- Required degree in Electrical Engineering
+- Licensed Professional Engineer (PE) required
+Job type: Full-time
+Location: Navarre (Sapin) 
+Salary, benefits and perks: 
+
 ### Job posting for Operators:
+Job title:
+Occupation: 51-3093
+Industry: 311920
+List of tasks:
+List of skills: 
+Requiered credentials and years of experience:
+Job type:
+Location:
+Salary, benefits and perks: 
 ***
 
 ## Task 6
