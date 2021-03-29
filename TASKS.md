@@ -250,21 +250,36 @@ List of tasks:
 - Utilize Computer-Aided Design software and other equipment to support project designs and plans, when necessary
 - Lead the staff with a focus on developing talent and providing innovative and effective technical solutions and assure the skills necessary for successful execution are available; ensures the overall development of our professional
 - Develop staff to improve skill levels and deliver services and stay abreast of evolving needs in the marketplace
-List of skills: 
-
-
-
+List of skills:
+- Ethics and Work Standards: Maintain the highest ethical and work standards, while promoting the same attributes in co-workers and others. Ensure that all business activities – with both internal and external customers – to be performed with a professional demeanor and that all participants be held accountable to this high standard.
+- Communication: Expresses thoughts clearly, both orally and in writing, using good grammar. Presents concise, well organized reports in Microsoft Word, PowerPoint and Excel. Listens to understand input, feedback and concerns. Provides complete information in an open, honest and straightforward manner. Responds promptly and positively to questions and requests.
+- Teamwork and Relationships: Works with other employees willingly and in a spirit of cooperation and teamwork. Supports cooperation. Demonstrates a commitment to the entire business and is supportive of all initiatives (company and departmental) to help grow Environmental Solutions Group business in the United States and abroad. Cooperates fully with others to achieve organizational goals. Is tactful, courteous, and considerate. Embraces a positive outlook. Is respected and trusted by others.
+- Continual Improvement and Problem Resolution: Identifies and communicates suggestions for work improvements. Uses technical and analytical abilities to assure existing work practices are the most efficient and cost effective possible. Performs root-cause analysis and implements viable, permanent solutions to problems. Works with both internal and external customers to develop solutions which meet company-wide needs and objectives. Applies a sense of urgency to resolve problems or creates opportunities that will increase productivity and create value. Shares best practices with other employees across the business.
+- Accountability: Accepts responsibility and accessibility for both the strategic planning and the successful implementation of all projects, programs, and duties as outlined in this job description. Advises supervisor of concerns, problems and progress of work in a timely manner.
 
 Requiered credentials and years of experience: 
 - 3+ years of direct experience 
 - Required degree in Electrical Engineering
 - Licensed Professional Engineer (PE) required
-Job type: Full-time
-Location: Navarre (Sapin) 
-Salary, benefits and perks: 
 
-### Job posting for Operators:
-Job title:
+Job type: Full-time
+
+Location: Navarre (Spain) 
+
+Salary, benefits and perks: 
+- 70,000- 75,000 euros a year 
+- Competitive Compensation
+- Comprehensive Benefits Packages
+- Employee Stock Purchase Program
+- Tuition Reimbursement
+- Commuter Benefits
+- Learning and Development Opportunities
+- Strong Inclusion and Diversity Initiatives
+- Company-paid Volunteer Days
+
+### Job posting for Operators: 
+
+Job title: Mnufacturing Operator 
 
 Occupation: 51-3093
 
@@ -272,15 +287,34 @@ Industry: 311920
 
 List of tasks:
 
+- Read and interpret prints, routings and related documents to produce in-tolerance parts that meet design specifications
+- Set-up and operate all jobs routed to the assigned machines with no assistance and meet production deadlines
+- Communicate equipment or tooling issues to supervisor in order to ensure production schedules will be met
+- Perform routine preventive maintenance on assigned machines, and maintain proper coolant levels/concentrations daily
+- Assist and participate in continuous improvements
+- Adhere to company safety requirements
+
 List of skills: 
 
-Requiered credentials and years of experience:
+- Self-motivated, reliable and capable of working with minimal supervision on multiple projects simultaneously
+- Great problem solving skills and the ability to handle simultaneous projects
+- Process planning experience including shop routings, set-up sheets, tool lists, bills of material, assembly instructions and process sequences
+- Knowledge in assembly, machining, good machining practices, feeds and speeds, ability to read and understand drawings, quality control and safety.
+- Experience working in a lean manufacturing or continuous improvement environment
 
-Job type:
+Requiered credentials and years of experience: 
 
-Location:
+- 5 Years minimum experience as a operator
+
+Job type: Full-time 
+
+Location: Navarre (Sapin) 
 
 Salary, benefits and perks: 
+
+- 20-26 euros per hour 
+- Full time employees are eligible for benefits after 60 days of employment. This includes health insurance, dental insurance, long term disability, Simple IRA program with percentage match contributions, paid holidays.
+
 
 ***
 
