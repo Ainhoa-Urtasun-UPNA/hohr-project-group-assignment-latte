@@ -315,6 +315,12 @@ Salary, benefits and perks:
 - 20-26 euros per hour 
 - Full time employees are eligible for benefits after 60 days of employment. This includes health insurance, dental insurance, long term disability, Simple IRA program with percentage match contributions, paid holidays.
 
+- Job vacancies for managers: As we forefacted in the previous task, 4 managers are required. Due to the size of the company it is necessary a manager for each department in order to fullfill the company's duties and expectations. 
+- Job vacancies for engineers: 10 engineers because 
+
+- Job vacancies for operators: 7 operators in order to 
+
+
 
 ***
 
