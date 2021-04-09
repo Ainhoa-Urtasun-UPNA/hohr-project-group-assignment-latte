@@ -189,7 +189,7 @@ In order to calculate the forecasting number of needed workers, we have to follo
 
 After the computations, we obtain the following expected needed of workers: 4 managers (4.33), 12 engineers (12.458) and 7 operators (7.042).
 
-To finish with this we want to compare the forecasting needed of workers and the forecasting available workers. There are going to be a shortages of 3 managers, 11 engineers and 5 operators.
+To finish with this we want to compare the forecasting needed of workers and the forecasting available workers. There are going to be a shortage of 3 managers, 11 engineers and 5 operators.
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
@@ -315,9 +315,9 @@ Salary, benefits and perks:
 - 20-26 euros per hour 
 - Full time employees are eligible for benefits after 60 days of employment. This includes health insurance, dental insurance, long term disability, Simple IRA program with percentage match contributions, paid holidays.
 
-Job vacancies for managers: As we forefacted in the previous task, 4 managers are required. Due to the size of the company it is necessary a manager for each department in order to fullfill the company's duties and expectations. 
-Job vacancies for engineers: 12 engineers since their responsabilities and tasks are highly valuated in the enterprise. Therefore, it is highly positive for the company to have a vast number of engineers available. 
-Job vacancies for operators: 7 operators in order to fullfill the coompnys manual tasks. 
+Job vacancies for managers: As we forefacted in the previous task, there would be a shortage of 3 managers. The automation risk percentage is 73% for Administrative Service Manager. Based on these numbers and due to the fact that the size of the company make compulsory to have a manager for each department in order to fullfill the company's duties and expectations, the number of manager vacancies is 3. 
+Job vacancies for engineers: there would be a shortage of 11 engineers. The automation risk percentage is 10%. Since their responsabilities and tasks are highly valuated in the enterprise,it is highly positive for the company to have a vast number of engineers available, so the number of engineer vacancies is 11. 
+Job vacancies for operators: there would be a shortage of 5 operators. The automation risk percentage is 61% for Food Cooking Machine Operators and Tenders. In order to fullfill the company manual tasks, the number of operator vacancies is 5. 
 
 
 
