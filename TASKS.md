@@ -189,7 +189,7 @@ In order to calculate the forecasting number of needed workers, we have to follo
 
 After the computations, we obtain the following expected needed of workers: 4 managers (4.33), 12 engineers (12.458) and 7 operators (7.042).
 
-To finish with this we want to compare the forecasting needed of workers and the forecasting available workers. There are going to be a surplus of 3 managers, 11 engineers and 5 operators.
+To finish with this we want to compare the forecasting needed of workers and the forecasting available workers. There are going to be a shortages of 3 managers, 11 engineers and 5 operators.
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
