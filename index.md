@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.luxuryretail.es/12127-2/](url) and ![Image](src)
+[Link](url) and ![https://www.luxuryretail.es/12127-2/](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
