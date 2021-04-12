@@ -28,6 +28,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ![Alt Text] (https://www.luxuryretail.es/12127-2/)
+![Uploading image.png…]()
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
