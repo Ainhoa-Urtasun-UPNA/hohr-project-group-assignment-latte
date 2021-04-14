@@ -222,7 +222,7 @@ List of skills:
 - Supply Chain Knowledge
 - P&L Management
 
-Requiered credentials and years of experience: 7-10 years food-service national account and distributor or related consumer products industries
+Requiered credentials and years of experience: Bachelor´s degree and 7-10 years of experience in food-service national account and distributor or related consumer products industries
 
 Job type: Full- time
 
@@ -279,7 +279,7 @@ Salary, benefits and perks:
 
 ### Job posting for Operators: 
 
-Job title: Mnufacturing Operator 
+Job title: Manufacturing Operator 
 
 Occupation: 51-3093
 
