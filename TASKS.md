@@ -250,6 +250,8 @@ List of tasks:
 - Utilize Computer-Aided Design software and other equipment to support project designs and plans, when necessary
 - Lead the staff with a focus on developing talent and providing innovative and effective technical solutions and assure the skills necessary for successful execution are available; ensures the overall development of our professional
 - Develop staff to improve skill levels and deliver services and stay abreast of evolving needs in the marketplace
+
+
 List of skills:
 - Ethics and Work Standards: Maintain the highest ethical and work standards, while promoting the same attributes in co-workers and others. Ensure that all business activities – with both internal and external customers – to be performed with a professional demeanor and that all participants be held accountable to this high standard.
 - Communication: Expresses thoughts clearly, both orally and in writing, using good grammar. Presents concise, well organized reports in Microsoft Word, PowerPoint and Excel. Listens to understand input, feedback and concerns. Provides complete information in an open, honest and straightforward manner. Responds promptly and positively to questions and requests.
