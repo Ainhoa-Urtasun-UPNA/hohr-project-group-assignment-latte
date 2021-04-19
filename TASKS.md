@@ -229,7 +229,7 @@ Job type: Full- time
 Location: Navarre (Spain)
 
 Salary, benefits and perks:
-100,000-110,000 euros a year
+30,000 euros a year
 1 month vacancy
 
 ### Job posting for Engineers:
@@ -269,7 +269,7 @@ Job type: Full-time
 Location: Navarre (Spain) 
 
 Salary, benefits and perks: 
-- 70,000- 75,000 euros a year 
+- 22,000 euros a year 
 - Competitive Compensation
 - Comprehensive Benefits Packages
 - Employee Stock Purchase Program
