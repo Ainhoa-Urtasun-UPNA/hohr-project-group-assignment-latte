@@ -1,30 +1,19 @@
 ## LATTE  
 ![Image](LOGO.jpg)
-Latte is not just coffee. It is made for coffee lovers. Latte turns your customer oordinary demand into an extraordinary experience. With the lastest 3D technology, we print the images in the foam of the coffe and each order is personal and unique. 
-NAIC code: 311920 Coffee and Tea Manufacturing
+***
+### Latte is not just coffee. It is made for coffee lovers. Latte turns your customer oordinary demand into an extraordinary experience. With the lastest 3D technology, we print the images in the foam of the coffe and each order is personal and unique. 
+# NAIC code: 311920 Coffee and Tea Manufacturing
 ![Image](IMAGENPORTADA.jpg)
 
+### PRODUCTION PROCESS
 ![Image](ACTIVITIES.jpg)
 
 ![Image](JOBPOSTING.jpg)
 
+
+INSTRUCTIONS: 
 (url) and ![Image](latte.jpg))
 PARA SUBIR FOTOS:    ![Image](link inmageb
-
- 
-
-### PRODUCTION PROCESS
-
-# Engineering activities 
-# Operations activities 
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
