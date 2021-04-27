@@ -1,12 +1,13 @@
 ## LATTE  
 ![Image](LOGO.jpg)
 ***
-![Image](INTRO.jpg)
+![Image](INTROOK.jpg)
 ![Image](IMAGENPORTADA.jpg)
 
 ### PRODUCTION PROCESS
 ![Image](ACTIVITIES.jpg)
 ![Image](COGNITIVE.jpg)
+![Image](OURTEAM.jpg)
 ![Image](JOBPOSTING.jpg)
 
 
