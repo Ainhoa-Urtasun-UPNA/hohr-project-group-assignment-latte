@@ -9,7 +9,7 @@
 
 ![Image](COGNITIVE.jpg)
 
-#FUTURE TEAM 
+# FUTURE TEAM 
 ![Image](OURTEAMOK.jpg)
 
 # JOB POSTING
