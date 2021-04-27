@@ -6,7 +6,7 @@
 
 ### PRODUCTION PROCESS
 ![Image](ACTIVITIES.jpg)
-
+![Image](COGNITIVE.png)
 ![Image](JOBPOSTING.jpg)
 
 
