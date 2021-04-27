@@ -5,9 +5,9 @@
 ![Image](IMAGENPORTADA.jpg)
 
 ### PRODUCTION PROCESS
-![Image](ACTIVITIES.jpg)
+![Image](ACTIVITIESOK.jpg)
 ![Image](COGNITIVE.jpg)
-![Image](OURTEAM.jpg)
+![Image](OURTEAMOK.jpg)
 ![Image](JOBPOSTING.jpg)
 
 
