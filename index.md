@@ -2,7 +2,7 @@
 ![Image](LOGO.jpg)
 ***
 ![Image](INTROOK.jpg)
-![Image](IMAGENPORTADA.jpg)
+![Image](IMAGENPORTADAOK.jpg)
 
 ### PRODUCTION PROCESS
 ![Image](ACTIVITIESOK.jpg)
