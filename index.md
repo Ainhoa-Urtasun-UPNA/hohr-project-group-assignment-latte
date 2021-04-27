@@ -6,6 +6,11 @@
 
 # PRODUCTION PROCESS
 ![Image](ACTIVITIESOK.jpg)
+
 ![Image](COGNITIVE.jpg)
+
+#FUTURE TEAM 
 ![Image](OURTEAMOK.jpg)
+
+# JOB POSTING
 ![Image](JOBPOSTING.jpg)
