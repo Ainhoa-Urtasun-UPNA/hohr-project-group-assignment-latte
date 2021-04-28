@@ -5,12 +5,12 @@
 ![Image](IMAGENPORTADAOK.jpg)
 
 # PRODUCTION PROCESS
-![Image](ACTIVITIESOK.jpg)
+![Image](activities.jpg)
 
-![Image](COGNITIVE.jpg)
+![Image](cognitive.jpg)
 
 # FUTURE TEAM 
 ![Image](OURTEAMOK.jpg)
 
 # JOB POSTING
-![Image](JOBPOSTING.jpg)
+![Image](posting.jpg)
