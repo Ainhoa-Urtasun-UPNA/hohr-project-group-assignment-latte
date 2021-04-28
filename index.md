@@ -7,7 +7,7 @@
 # PRODUCTION PROCESS
 ![Image](activities.jpg)
 
-![Image](cognitive.jpg)
+![Image](cognitiveok.jpg)
 
 # FUTURE TEAM 
 ![Image](OURTEAMOK.jpg)
