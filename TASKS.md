@@ -317,7 +317,7 @@ Salary, benefits and perks:
 - 20-26 euros per hour 
 - Full time employees are eligible for benefits after 60 days of employment. This includes health insurance, dental insurance, long term disability, Simple IRA program with percentage match contributions, paid holidays.
 
-Job vacancies for managers: As we forefacted in the previous task, there would be a shortage of 3 managers. The automation risk percentage is 73% for Administrative Service Manager. Based on these numbers and due to the fact that the size of the company make compulsory to have a manager for each department in order to fullfill the company's duties and expectations, the number of manager vacancies is 3. 
+Job vacancies for managers: As we forefacted in the previous task, there would be a shortage of 3 managers. The automation risk percentage is 8% for Food Service Manager. Based on these numbers and due to the fact that the size of the company make compulsory to have a manager for each department in order to fullfill the company's duties and expectations, the number of manager vacancies is 3. 
 
 Job vacancies for engineers: there would be a shortage of 11 engineers. The automation risk percentage is 10%. Since their responsabilities and tasks are highly valuated in the enterprise, it is highly positive for the company to have a vast number of engineers available, so the number of engineer vacancies is 11. 
 
