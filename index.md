@@ -13,4 +13,4 @@
 ![Image](OURTEAMOK.jpg)
 
 # JOB POSTING
-![Image](posting.jpg)
+![Image](JOBposting.jpg)
